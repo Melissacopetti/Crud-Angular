@@ -1,0 +1,15 @@
+<mat-sidenav-container class="container " >
+    <mat-sidenav class="sidenav white " mode="side" opened fixedInViewport="true" fixedTopGap="64">
+        <a v-middle routerLink="/" >
+            <i class="material-icons white">home</i>
+          Início
+        </a>
+        <a v-middle routerLink="/products"  >
+            <i class="material-icons white">storefront</i>
+          Produtos
+        </a>
+    </mat-sidenav>
+    <mat-sidenav-content class="content">
+      <router-outlet></router-outlet>
+    </mat-sidenav-content>
+</mat-sidenav-container>
