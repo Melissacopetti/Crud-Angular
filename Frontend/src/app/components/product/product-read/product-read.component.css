@@ -1,5 +1,15 @@
-.table{
+table {
     width: 100%;
-    background-color:rgb(230, 20, 76);
+    font-size: 1.2rem;
+    font-weight: 500;
 
+  }
+
+ .edit > i{ 
+    color:#d9cd26;
+    margin-right: 20px;
+  }
+
+  .delete > i{
+color: #e35e6b;
   }

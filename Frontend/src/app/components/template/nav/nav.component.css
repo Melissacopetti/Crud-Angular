@@ -12,15 +12,15 @@
   align-items: center;
   justify-content: left;
   width: 100px;
-
-  
+  text-decoration: none;
 }
 
 .sidenav i {
   padding-right: 10px;
+  text-decoration: none;
 }
 
-.content{
+.content {
   padding: 1rem;
   background-color: #fcfcfc;
 }
