@@ -14,7 +14,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * [Descrição](#descrição)
 * [Como utilizar o Projeto](#como-utilizar-o-projeto)
 * [Contribuições](#contribuições)
-* [Link do Projeto](#link-do-projeto)
 * [Funcionalidades](#funcionalidades)
 * [Imagem do Projeto](#imagem-do-projeto)
 * [Licença](#licença)
@@ -42,10 +41,7 @@ Com o Angular CLI instalado, siga os passos abaixo:
 <div align='justify'>
 Este projeto foi desenvolvido com o objetivo de ser um espaço de fixação de conteúdo. No entanto, se você identificar alguma falha ou tiver alguma sugestão de melhoria, sinta-se à vontade para abrir uma issue ou enviar um pull request.
      </div>
-     
-
-## Link do Projeto 
-[Crud]() 
+    
 
 
 ## Funcionalidades
@@ -56,7 +52,7 @@ A aplicação consiste eum uma página simples com a função de criar, listar e
 
 
 ## Imagens do Projeto
-![angular](https://user-images.githubusercontent.com/104647493/234720105-4ef7bb82-a385-4770-a13b-2e7beb479d25.jpg)
+![coder](https://user-images.githubusercontent.com/104647493/234986108-7b3c61b4-cd1a-4f84-920f-562f78699af8.jpg)
 
 
 ## Licença
